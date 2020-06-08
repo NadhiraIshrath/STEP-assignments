@@ -1,0 +1,19 @@
+.header{
+	font-family: sans-serif;
+	text-align: center;
+	color: #FF6347;
+}
+.header2{
+	font-family: sans-serif;
+	text-align: center;
+	color: #000000;
+}
+.winner {
+	color:green;
+}
+p{
+	text-align: center;
+	font-family: sans-serif;
+	color: blue;
+	font-size: 40px;
+}
